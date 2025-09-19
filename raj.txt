@@ -1,2 +1,6 @@
 this is the first change
+<<<<<<< HEAD
 making third time chage
+=======
+this is second change in programer branch
+>>>>>>> programer
